@@ -125,6 +125,10 @@ int main(int argc, char* argv[])
             case 7:
                 ht.printTable();
                 break;
+
+            case 8:
+                cout << "Bye, bye."
+                    break;
        
             default:
                 cout<<"Give a valid entry"<<endl;
